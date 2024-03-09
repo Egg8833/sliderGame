@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+# 作品說明
+![comment](https://egg8833.github.io/sliderGame/blob/master/src/assets/001.png)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+此作品為眼明手快小遊戲作品。
+進行方式，分別按下"空白鍵"三次，嘗試組合上、中、下圖片為一完整的圖片才算完成。
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 網站 Demo
+[githubpage](https://egg8833.github.io/sliderGame/)
+
