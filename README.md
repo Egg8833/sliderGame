@@ -3,8 +3,6 @@
  進行方式，分別按下"空白鍵"三次，嘗試組合上、中、下圖片為一完整的圖片才算完成。
 
 ![image](./src/assets/001.png)
-![image](https://github.com/Egg8833/travelTaiwan/blob/dev/src/assets/images/areaImg/forest.jpg)
-
 
 
 
